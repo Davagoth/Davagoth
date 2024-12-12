@@ -1,16 +1,14 @@
+### Hi, I'm Dawid 👋
+- 💻 Software Engineer with over two years of IT experience in developing Core Banking Systems
+- 🚀 Passionate about programming and always eager to learn
+- 🌱 Currently learning frontend - React.js
 
-### <div align="center"> Hi, I'm Dawid 👋 </div>
-<div align="center"> Software Engineer with over two years of IT experience in developing Core Banking Systems </div>
-<div align="center"> Passionate about programming and always eager to learn 😉 </div>
-
-## Languages and Tools  
+## Languages
 <div align="center">
-<img style="margin: 10px" src="https://www.svgrepo.com/show/373510/cobol.svg" alt="Cobol" height="75" />
+<img style="margin: 10px" src="https://www.svgrepo.com/show/373510/cobol.svg" alt="Cobol" height="85" />
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="75" />
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" height="75" />
-<br/>
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png?20220905010122" alt="Git" height="60" />
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/150px-Microsoft_Azure.svg.png" alt="Cloud" height="60" />
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/1024px-React_Logo_SVG.svg.png" alt="React" height="75" />
 </div>
   
 <br/> 
